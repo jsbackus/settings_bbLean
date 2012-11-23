@@ -1,0 +1,10 @@
+This repository contains the settings files that I use for bbLean, a variant of
+BB4Win. To use this config, first install bbLean then clone this repository
+into the bbLean install directory. i.e. if you install to C:\bbLean, then clone
+into a temporary directory, move the .git directory into C:\bbLean and do a
+"git pull" to populate.
+
+bbLean can be found at:
+http://http://bb4win.sourceforge.net/bblean/
+
+-- Backus
