@@ -42,8 +42,8 @@ session.screen0.slit.ontop: true
 session.screen0.slit.toggle: false
 
 # - other options -
-session.screen0.workspaces: 3
-#session.screen0.workspaces: 4
+#session.screen0.workspaces: 3
+session.screen0.workspaces: 4
 session.screen0.workspacenames: alpha,beta,gamma,delta
 session.screen0.focusModel: ClickToFocus
 session.screen0.fullMaximization: false

@@ -1,12 +1,13 @@
 # --------------------------------------------------
 # bbIconBox.rc
 
-bbIconBox.id.count: 4
+bbIconBox.id.count: 5
 bbIconBox.id.1: Quick Launch
 bbIconBox.id.2: task1
 bbIconBox.id.3: task2
 bbIconBox.id.4: task3
-bbIconBox.id.5: Desktop
+bbIconBox.id.5: task4
+bbIconBox.id.6: Desktop
 
 bbIconBox.Desktop.placement: Right
 bbIconBox.Desktop.position.x: 1009
@@ -101,8 +102,8 @@ bbIconBox.task2.drawBorder: true
 bbIconBox.task2.toolTips: true
 
 bbIconBox.task3.placement: User
-bbIconBox.task3.position.x: 735
-bbIconBox.task3.position.y: 128
+bbIconBox.task3.position.x: 765
+bbIconBox.task3.position.y: 209
 bbIconBox.task3.useSlit: true
 bbIconBox.task3.alwaysOnTop: false
 bbIconBox.task3.autoHide: false
@@ -122,3 +123,26 @@ bbIconBox.task3.icon.hue: 0
 bbIconBox.task3.drawTitle: true
 bbIconBox.task3.drawBorder: true
 bbIconBox.task3.toolTips: true
+
+bbIconBox.task4.placement: User
+bbIconBox.task4.position.x: 765
+bbIconBox.task4.position.y: 225
+bbIconBox.task4.useSlit: true
+bbIconBox.task4.alwaysOnTop: false
+bbIconBox.task4.autoHide: false
+bbIconBox.task4.clickRaise: true
+bbIconBox.task4.snapWindow: true
+bbIconBox.task4.pluginToggle: true
+bbIconBox.task4.alpha.enabled: false
+bbIconBox.task4.alpha.value: 192
+bbIconBox.task4.orientation: vertical
+bbIconBox.task4.path: TASK4
+bbIconBox.task4.title: D
+bbIconBox.task4.rows: 4
+bbIconBox.task4.columns: 2
+bbIconBox.task4.icon.size: 16
+bbIconBox.task4.icon.saturation: 80
+bbIconBox.task4.icon.hue: 0
+bbIconBox.task4.drawTitle: true
+bbIconBox.task4.drawBorder: true
+bbIconBox.task4.toolTips: true

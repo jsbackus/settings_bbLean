@@ -12,3 +12,15 @@ bbanalog.alpha.value: 192
 bbanalog.orientation: vertical
 bbanalog.antiAliasing: true
 bbAnalog.Size: 43
+bbAnalog.2.placement: User
+bbAnalog.2.position.x: 20
+bbAnalog.2.position.y: 20
+bbAnalog.2.useSlit: false
+bbAnalog.2.alwaysOnTop: false
+bbAnalog.2.autoHide: false
+bbAnalog.2.clickRaise: true
+bbAnalog.2.snapWindow: true
+bbAnalog.2.pluginToggle: true
+bbAnalog.2.alpha.enabled: false
+bbAnalog.2.alpha.value: 192
+bbAnalog.2.orientation: vertical

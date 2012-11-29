@@ -18,3 +18,15 @@ bbSlit.alignment: 2
 bbSlit.basewidth: 50
 bbSlit.clickRaise: true
 bbSlit.setMargin: false
+bbSlit.2.placement: CenterRight
+bbSlit.2.position.x: 1440
+bbSlit.2.position.y: 450
+bbSlit.2.useSlit: false
+bbSlit.2.alwaysOnTop: false
+bbSlit.2.autoHide: false
+bbSlit.2.clickRaise: true
+bbSlit.2.snapWindow: true
+bbSlit.2.pluginToggle: true
+bbSlit.2.alpha.enabled: false
+bbSlit.2.alpha.value: 192
+bbSlit.2.orientation: vertical

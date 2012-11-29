@@ -72,3 +72,14 @@ bbLeanBar.sendToGesture: true
 # -------------------------
 # hidden icons (auto saved)
 bbLeanBar.tray.hidden.count: 0
+bbLeanBar.2.placement: BottomCenter
+bbLeanBar.2.position.x: 720
+bbLeanBar.2.position.y: 900
+bbLeanBar.2.useSlit: false
+bbLeanBar.2.alwaysOnTop: false
+bbLeanBar.2.autoHide: false
+bbLeanBar.2.clickRaise: true
+bbLeanBar.2.snapWindow: true
+bbLeanBar.2.pluginToggle: true
+bbLeanBar.2.alpha.enabled: false
+bbLeanBar.2.alpha.value: 192

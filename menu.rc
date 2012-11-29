@@ -17,8 +17,9 @@
     [exec] (NotePad++) {"STARTMENU\Programs\Notepad++\Notepad++.lnk"}
     [exec] (Bash) {"C:\cygwin\Cygwin.bat"}
     [exec] (VNC) {"PROGRAM_FILES\TigerVNC\vncviewer.exe"}
-    [exec] (Remote Desktop) {"C:\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Remote Desktop Connection.lnk"}
+    [exec] (Remote Desktop) {"C:\Documents and Settings\All Users\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk"}
     [exec] (Firefox) {"PROGRAM_FILES\Mozilla Firefox\firefox.exe"}
+    [exec] (Display Settings) {"WINDOWS\system32\desk.cpl"}
     [submenu] (System)
         [path] (My Computer) {DRIVES}
         [path] (Personal) {PERSONAL}
